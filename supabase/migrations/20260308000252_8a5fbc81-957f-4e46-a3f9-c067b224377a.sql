@@ -1,0 +1,1 @@
+DROP POLICY IF EXISTS "Allow inserts from service role" ON public.private_show_inquiries;
